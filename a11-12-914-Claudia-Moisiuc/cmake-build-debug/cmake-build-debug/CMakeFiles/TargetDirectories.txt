@@ -1,0 +1,5 @@
+C:/Users/dell/CLionProjects/testqt1/cmake-build-debug/CMakeFiles/testqt1.dir
+C:/Users/dell/CLionProjects/testqt1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dell/CLionProjects/testqt1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dell/CLionProjects/testqt1/cmake-build-debug/CMakeFiles/testqt1_autogen_timestamp_deps.dir
+C:/Users/dell/CLionProjects/testqt1/cmake-build-debug/CMakeFiles/testqt1_autogen.dir

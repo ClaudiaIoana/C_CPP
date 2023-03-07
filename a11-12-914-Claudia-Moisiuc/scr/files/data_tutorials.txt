@@ -1,0 +1,8 @@
+computer networks,Anca Petcu,12:34,120,https://www.youtube.com/watch?v=3QhU9jd03a0
+computer graphics,Tomislav Jorrit,34:15,12,https://www.youtube.com/watch?v=TEAtmCYYKZA
+computer organization,Gedeon Monika,12:3,1234,https://www.youtube.com/watch?v=p3q5zWCw8J4
+input data in c,Hudson Zander,16:56,445,https://www.youtube.com/watch?v=oaGdiYGMJfA
+input data in java,Branson Kylan,12:13,1,https://www.youtube.com/watch?v=5DdacOkrTgo
+separators in c,Branson Kylan,12:56,3454,https://www.youtube.com/watch?v=auu1DCAZX7c
+separators in c++,Arline Corinna,12:30,345,https://www.youtube.com/watch?v=1EAL_RRCKhY
+AI for beginners,Arline Corinna,11:10,67654,https://www.youtube.com/watch?v=ad79nYk2keg
