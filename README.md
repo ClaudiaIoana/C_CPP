@@ -6,3 +6,4 @@ Skills obtained:
   - learned to use OOP
   - learned to use QT
   - obtained a better understanding of: Maps, Matrixes, Sets, Queues, etc.
+  - learned to create tests
